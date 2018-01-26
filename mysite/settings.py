@@ -25,7 +25,7 @@ SECRET_KEY = 'v%&c(b6!0m*@$_p7pd(q*j1*tmz8b_9iz9)3dy7m7g!89ujn3h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'isaacglide.pythonanywhere.com']
 
 
 # Application definition
